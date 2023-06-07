@@ -1,0 +1,23 @@
+body{
+    background-color: darkgray;
+}
+
+h1 {
+    color: #025157;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.publish>form p {
+    color: #025157;
+    margin-right: 18px;
+}
+
+.promo {
+
+    display: flex;
+    width: 70%;
+    margin: auto;
+    margin-top: 25px;
+    align-items: center;
+}

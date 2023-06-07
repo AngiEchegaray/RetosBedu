@@ -1,0 +1,11 @@
+.publish>form p {
+    color: ·#025157;
+    margin-right: 18px;
+}
+
+.promo {
+    display: flex;
+    width: 70%;
+    margin: auto;
+    align-items: center;
+}
